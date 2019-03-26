@@ -50,10 +50,7 @@ HEADERS += \
 
 FORMS += \
         mainwindow.ui \
-    info.ui \
     photo.ui \
-    info1.ui \
-    info2.ui \
     info21.ui \
     info01.ui \
     info11.ui
